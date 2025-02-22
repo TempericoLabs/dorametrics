@@ -16,6 +16,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * AÑADIDA NUEVA LINEA 3
  * AÑADIDA NUEVA LINEA 4
  * AÑADIDA NUEVA LINEA 5
+ * AÑADIDA NUEVA LINEA 6
  */
 @SpringBootApplication
 public class DoraMetricsApplication {
