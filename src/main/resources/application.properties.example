@@ -1,0 +1,10 @@
+# Database Configuration
+spring.datasource.url=jdbc:postgresql://localhost:5432/dora_metrics
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+
+# Actuator Configuration
+management.endpoints.web.exposure.include=health,metrics,prometheus
+management.endpoint.health.show-details=always
