@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * - Time to Restore Service
  * - Change Failure Rate
  *
- * VAMOS 5
+ * VAMOS 7
  */
 @SpringBootApplication
 public class DoraMetricsApplication {
